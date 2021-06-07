@@ -1,6 +1,6 @@
 ### Hello World, I'm Hotu 👋
 
-##I'm a ML-Practitioner, Data Scientist, Strategic Planner, and Out of box thinker!!
+## I'm a ML-Practitioner, Data Scientist, Strategic Planner, and Out of box thinker!!
 
 
 - 🔭 I’m currently working on Machine Learning(ML)
