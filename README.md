@@ -2,6 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/hello.gif?raw=true" width="450" height="300" />
 <!--  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/welcome.gif?raw=true" width="500" height="220" /> -->
+ <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.gif" width="450" height="100" />
 
 
 ## I'm a ML-Practitioner, Data Scientist, Strategic Planner, and Out of box thinker!!
