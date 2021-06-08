@@ -33,7 +33,7 @@
 <img align="left" alt="tensorflow" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/tensorflow.png" />
 <img align="left" alt="pytorch" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/pytorch.png" />
 <img align="left" alt="opencv" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/opencv.png" />
-<!-- <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> -->
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="jupyter" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/jupyter.png" />
 <img align="left" alt="googlecolab" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/googlecolab.png" />
 <img align="left" alt="pytorch" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/pytorch.png" />
