@@ -37,8 +37,6 @@
 <img align="left" alt="googlecolab" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/googlecolab.png" />
 <img align="left" alt="pytorch" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/pytorch.png" />
 <img align="left" alt="pytorch" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/pytorch.png" />
-
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -50,15 +48,14 @@
 <br />
 <br />
 
-
-
+<!--  -->
+<!--  -->
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Hotu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HotuRam&show_icons=true&hide_border=true" />
-
 </details>
-
+<!--  -->
+<!--  -->
 <details>
   <summary>:zap: Most Used Languages</summary>
 
