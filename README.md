@@ -20,8 +20,7 @@
 ### I am a cool person. connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mail" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/gmail.png" />](hotugoyal@gmail.com)
-[<img align="left" alt="insta" width="30px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/insta.jpg" />](https://www.instagram.com/hotugoyal/)
+[<img align="left" alt="insta" width="32px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/insta.jpg" />](https://www.instagram.com/hotugoyal/)
 <br />
 
 <br />
