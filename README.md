@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Machine Learning(ML)
 - 🌱 I’m currently learning sklearn and Tensorflow
-- 👯 I’m looking to collaborate on start-up
+- 👯 I’m looking to collaborate with start-up
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Rajasthani)
