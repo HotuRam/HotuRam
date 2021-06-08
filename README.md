@@ -22,7 +22,7 @@
 ### I am a cool person. connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@hotugoyal)
+[<img align="left" alt="Medium" width="80" src="https://github.com/HotuRam/HotuRam/blob/main/icons/medium.png" />](https://medium.com/@hotugoyal)
 [<img align="left" alt="insta" width="34px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/insta.jpg" />](https://www.instagram.com/hotugoyal/)
 
 <!-- <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.gif" width="350" height="120" /> -->
