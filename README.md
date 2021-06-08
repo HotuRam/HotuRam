@@ -47,33 +47,13 @@
 <img align="left" alt="linux" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/linex.jpg" /> 
 <img align="left" alt="ai" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.jpg" /> 
 <img align="left" alt="ml" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ML.png" /> 
-<img align="left" alt="c++" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/c%2B%2B.png" /> 
-<img align="left" alt="c++" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/c%2B%2B.png" /> 
-<img align="left" alt="c++" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/c%2B%2B.png" /> 
-<img align="left" alt="c++" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/c%2B%2B.png" /> 
-
-
-
-
-
-
 
 
 <br /> 
 <br /> 
 
-
-
 <!--  -->
 <!--  -->
-
-
-
-
-
-
-
-
 <br /> 
 <details>
  
@@ -85,18 +65,6 @@
 
 <!--  -->
 <!--  -->
-
-
-
-
-
-
-
-
-
-
-
-
 <details>
   <summary>:zap: Most Used Languages</summary>
 
