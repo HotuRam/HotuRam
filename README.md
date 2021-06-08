@@ -91,3 +91,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats
 https://github.com/gautamkrishnar/blog-post-workflow
 https://github.com/codeSTACKr/codeSTACKr -->
+
+
+
+ <img align="left" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ml%201.gif?raw=true" width="450" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.gif?raw=true" width="450" height="300" />
+
