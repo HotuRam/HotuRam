@@ -15,7 +15,7 @@
 <!-- - 📫 How to reach me: linkedin - https://www.linkedin.com/in/hotu-ram-a10172204/ -->
 
 
-### I am a cool person. Talk with me:
+### I am a cool person. connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
