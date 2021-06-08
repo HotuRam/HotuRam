@@ -34,8 +34,9 @@
 <img align="left" alt="pytorch" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/pytorch.png" />
 <img align="left" alt="opencv" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/opencv.png" />
 <img align="left" alt="jupyter" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/jupyter.png" />
-<img align="left" alt="googlecolab" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/googlecolab.png" />
+<img align="left" alt="googlecolab" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/googlecolab.png" />
 <img align="left" alt="python" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/python.png" /> 
+<br />
 <br />
 <img align="left" alt="linux" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/linex.jpg" /> 
 <img align="left" alt="ai" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.jpg" /> 
@@ -53,6 +54,8 @@
 <!--  -->
 <!--  -->
 <br /> 
+<br /> 
+
 <details>
  
   <summary>:zap: GitHub Stats</summary>
