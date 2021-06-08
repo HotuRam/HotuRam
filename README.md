@@ -3,9 +3,6 @@
  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/hello.gif?raw=true" width="450" height="300" />
 <!--  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/welcome.gif?raw=true" width="500" height="220" /> -->
 
-<br />
- <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.gif" width="450" height="100" />
-
 
 ## I'm a ML-Practitioner, Data Scientist, Strategic Planner, and Out of box thinker!!
 
@@ -18,6 +15,8 @@
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Rajasthani)
 
 <!-- - 📫 How to reach me: linkedin - https://www.linkedin.com/in/hotu-ram-a10172204/ -->
+
+ <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.gif" width="450" height="100" />
 
 
 ### I am a cool person. connect with me:
