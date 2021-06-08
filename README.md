@@ -24,7 +24,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="insta" width="34px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/insta.jpg" />](https://www.instagram.com/hotugoyal/)
 
-<img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.gif" width="450" height="100" />
+<img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.gif" width="350" height="120" />
 <br />
 
 <br />
