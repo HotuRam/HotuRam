@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on Machine Learning(ML)
 - 🌱 I’m currently learning sklearn and Tensorflow
 - 👯 I’m looking to collaborate with start-up
-- 💬 Ask me about Anything
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Rajasthani)
 
 <!-- - 📫 How to reach me: linkedin - https://www.linkedin.com/in/hotu-ram-a10172204/ -->
