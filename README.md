@@ -82,7 +82,7 @@
 <!-- [website]: https://holistic-developer.com/ -->
 <!-- [youtube]: https: -->
 <!-- [instagram]:  -->
-[linkedin]: https://www.linkedin.com/in/hotu-ram-a10172204/
+[linkedin]: https://www.linkedin.com/in/hotu-ram-m-sc-a10172204/
 [Gmail]: hotugoyal@gmail.com
 <!-- [portfolio]: https://arsentieva.github.io/profile/ -->
 
