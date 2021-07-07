@@ -7,7 +7,7 @@
 ## I'm ML-Practitioner, Data Scientist, Strategic Planner, and Out of box thinker!!
 
 
-- 🔭 I’m currently working on Machine Learning(ML)
+- 🔭 I’m currently working on Chatbot(AI)
 - 🌱 I’m learning sklearn and Tensorflow
 - 👯 I’m looking to collaborate with start-up
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Rajasthani)
