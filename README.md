@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on Chatbot(AI)
 - 🌱 I’m learning sklearn and Tensorflow
-- 👯 I’m looking to collaborate with start-up
-- ⚡ Fun fact: I speak 3 languages ( English, Hindi, Rajasthani)
+- 👯 I’m looking to collaborate with start-ups
+- ⚡ Chat: I speak 3 languages ( English, Hindi, Rajasthani)
 
 <!-- - 📫 How to reach me: linkedin - https://www.linkedin.com/in/hotu-ram-a10172204/ -->
 
  
 
 
-### I am a cool person. connect with me:
+### I will find me a cool person. connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="Medium" width="90" src="https://github.com/HotuRam/HotuRam/blob/main/icons/medium.png" />](https://medium.com/@hotugoyal) -->
