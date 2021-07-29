@@ -41,7 +41,7 @@
 <img align="left" alt="googlecolab" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/googlecolab.png" />
 <img align="left" alt="python" width="26px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/python.png" /> 
 <br />
-<br />
+<br />                                      
 <img align="left" alt="linux" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/linex.jpg" /> 
 <img align="left" alt="ai" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.jpg" /> 
 <img align="left" alt="ml" width="36px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ML.png" /> 
