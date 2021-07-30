@@ -27,7 +27,7 @@
 
 <br />
 
-### Languages and Tools:                   
+### Languages and Tools:                                            
 
 <img align="left" alt="sklearn" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/scikit-learn.png" />
 <img align="left" alt="pandas" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/pandas.png" />
