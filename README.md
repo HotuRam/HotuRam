@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/hello.gif?raw=true" width="450" height="300" />
 <!--  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/welcome.gif?raw=true" width="500" height="220" /> -->
 
-
+                                                
 ## I'm ML-Practitioner, Data Scientist, Strategic Planner, and Out of box thinker!!                                                           
 
                                                                        
