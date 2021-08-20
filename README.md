@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Machine learning Models(AI)            
 - 🌱 I’m learning sklearn and Tensorflow
 - 👯 I’m looking for collaborate with start-ups
-- ⚡ Chat: I speak 3 languages ( English, Hindi, Rajasthani)              
+- ⚡ Chat: I speak 3 languages ( English, Hindi, Rajasthani)                         
 
 <!-- - 📫 How to reach me: linkedin - https://www.linkedin.com/in/hotu-ram-a10172204/ -->
 
