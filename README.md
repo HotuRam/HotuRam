@@ -8,7 +8,7 @@
                                                        
                                                                                           
 - 🔭 I’m currently working on Machine learning Models(AI)                                 
-- 🌱 I’m learning sklearn and Tensorflow                                   
+- 🌱 I’m learning sklearn and Tensorflow                                     
 - 👯 I’m looking for collaborate with start-ups       
 - ⚡ Chat: I speak 3 languages ( English, Hindi, Rajasthani)                         
                 
