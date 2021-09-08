@@ -98,3 +98,5 @@ https://github.com/codeSTACKr/codeSTACKr -->
 
 <!--  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.gif?raw=true" width="400" height="250" /> -->
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
