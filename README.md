@@ -99,8 +99,3 @@ https://github.com/codeSTACKr/codeSTACKr -->
 <!--  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/icons/ai.gif?raw=true" width="400" height="250" /> -->
 
 
-
-<script src="https://www.linkedin.com/in/hotu-ram/?trk=public-profile-badge-profile-badge-view-profile-cta&originalSubdomain=in" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hotu-ram" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hotu-ram?trk=profile-badge">Hotu Ram</a></div>
-              
-
