@@ -7,8 +7,8 @@
 ## I'm ML-Practitioner, Data Scientist, Strategic Planner, and Out of box thinker!!                                                                                                                                                                                                 
                                                        
                                                                                           
-- 🔭 I’m currently working on Machine learning Models(AI)                                 
-- 🌱 I’m learning sklearn and Tensorflow                                            
+- 🔭 I’m currently working on Machine learning Algorithms                                 
+- 🌱 I’m learning sscikit-learn                                           
 - 👯 I’m looking for collaborate with start-ups           
 - ⚡ Chat: I speak 3 languages ( English, Hindi, Rajasthani)                         
                 
@@ -26,7 +26,7 @@
 <br />
 
 <br />
-
+  
 ### Languages and Tools:                                                                                           
 
 <img align="left" alt="sklearn" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/scikit-learn.png" />
