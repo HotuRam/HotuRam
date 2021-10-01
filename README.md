@@ -1,11 +1,13 @@
 ### Hello World, I'm Hotu 👋
 
+  <a href="https://www.teacheron.com/tutor-profile/44Ct?r=44Ct" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a>  
+  
  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/hello.gif?raw=true" width="450" height="300" />
 <!--  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/welcome.gif?raw=true" width="500" height="220" /> -->
 
                                                                   
 ## I'm ML-Practitioner, Data Scientist, Strategic Planner, and Out of box thinker!!                                                                                                                                                                                                 
-  <a href="https://www.teacheron.com/tutor-profile/44Ct?r=44Ct" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a>                                                     
+                                                   
                                                                                           
 - 🔭 I’m currently working on Machine learning Algorithms                                 
 - 🌱 I’m learning sscikit-learn                                           
