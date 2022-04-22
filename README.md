@@ -33,7 +33,7 @@
 
 <img align="left" alt="sklearn" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/scikit-learn.png" />
 <img align="left" alt="pandas" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/pandas.png" />
-<img align="left" alt="numpy" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/numpy.png" />
+<img align="left" alt="numpy" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/numpy.png" />     
 <img align="left" alt="seaborn" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/seaborn.png" />
 <img align="left" alt="matplotlib" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/matplotlib.jpg" />
 <img align="left" alt="tensorflow" width="70px" src="https://github.com/HotuRam/HotuRam/blob/main/icons/tensorflow.png" />
