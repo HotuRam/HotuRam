@@ -6,19 +6,19 @@
 <!--  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/welcome.gif?raw=true" width="500" height="220" /> -->
 
                                                                   
-## I'm ML-Practitioner, Data Scientist, Strategic Planner, and Out of box thinker!!                                                                                                                                                                                                          
+## I'm ML-Practitioner, Strategic Planner, and Out of box thinker!!                                                                                                                                                                                                          
                                                    
                                                                                           
-- 🔭 I’m currently working on Machine learning Algorithms                                        
-- 🌱 I’m learning sscikit-learn                                           
-- 👯 I’m looking for collaborate with start-ups                      
+- 🔭 I’m always working on personal Machine learning projects                                        
+- 🌱 I’m learning new things in Deep learning and Computer Vision                                           
+- 👯 I’m looking for opportunities in start-ups                      
 - ⚡ Chat: I speak 3 languages ( English, Hindi, Rajasthani)                                
                 
 <!-- - 📫 How to reach me: linkedin - https://www.linkedin.com/in/hotu-ram/ -->
 
  
 
-### You will find me a cool person. connect with me:                                     
+### You will find me a good person. connect with me:                                     
                                  
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="Medium" width="90" src="https://github.com/HotuRam/HotuRam/blob/main/icons/medium.png" />](https://medium.com/@hotugoyal) -->
