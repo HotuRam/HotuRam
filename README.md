@@ -1,5 +1,5 @@
 ## Hi, I'm Hotu Ram 👋
-### Independent Prop Firm Trader | MT5/MQL5 Developer | Community Educator (IIT Patna Alumnus)
+### Independent Prop Firm Trader | MT5/MQL5 Developer | Community Educator (IIT Alumnus)
 
 I decode the prop firm ecosystem—combining **5+ years of live trading experience** (Forex, Futures, and CFDs) with custom **MQL5 / Pine Script engineering** and a strong analytical foundation in Python and Machine Learning.
 
